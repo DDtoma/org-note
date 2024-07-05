@@ -1,0 +1,8 @@
+#+title: gtd任务计划
+#+author: llight
+
+* Tasks
+** TODO 完善DocumentParser中table分割
+<2024-07-05 五 13:30>--<2024-07-05 五 18:30>
+** TODO 分割word文档中的文本段落
+
